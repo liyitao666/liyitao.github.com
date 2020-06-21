@@ -1,0 +1,101 @@
+body{
+	background-color:#fef8ba;
+	background-image:url(image/beijing.jpg);
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+}
+.hair{
+	width:100%;
+	height:30px;
+}
+.hair img{
+	float:left;
+}
+.hair h4{
+	margin:0;
+	font-weight:100;
+	padding-top:5px;
+	float:left;
+}
+.hair h5{
+	margin-right:10px;
+	padding-top:5;
+}
+.header{
+	width: 100%;
+	background-color:#fabf58;
+}
+.lhead{
+	float:left;
+	width:30%;
+}
+.rhead{
+    width:70%;
+	height:150px;
+}
+.rhead h1{
+	padding-top:30px;
+	font-size:50px;
+	margin:0;
+	letter-spacing: 20px;
+}
+.daohang li{
+	float:left;
+	display:block;
+	padding-top:5px;
+	text-align:center;
+	width:33%;
+	height:35px;
+}
+.header ul{
+	margin:5px;
+	height:40px;
+	display:block;
+	background-color:#f99f09; 
+}
+.header a{
+	text-decoration:none;
+	color:black;
+	transition:0.5s;
+	display:block;
+}
+.header li:hover {
+	display:block;
+	background-color:#c97e01; 
+}
+.neirong{
+	margin-left:100px;
+	margin-right:100px;
+	height:1040px;
+	margin-top:50px;
+}
+.neirong1{
+	width:50%;
+	height:1000px;
+	background-color:#206560;
+	border-color:#f99f09;
+	border-style:ridge;
+	border-width:20px;
+	float:left;
+}
+.neirong11 h1{
+	color:white;
+}
+marquee{
+	color:white;
+	font-size:30px;
+}
+.neirong2{
+	width:30%;
+	height:300px;
+	margin-left:800px;
+	background-image:url(image/heiban.png);
+	background-size:400px 300px;
+	background-repeat: no-repeat;
+}
+.neirong22 img{
+	margin-top:200px;
+}
+.tail{
+	margin-top:100px;
+}

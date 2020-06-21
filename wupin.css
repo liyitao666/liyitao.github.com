@@ -1,0 +1,101 @@
+body{
+	background-color:#fef8ba;
+	background-image:url(image/beijing.jpg);
+	background-size:100% 100%;
+	background-repeat: no-repeat;
+}
+.hair{
+	width:100%;
+	height:30px;
+}
+.hair img{
+	float:left;
+}
+.hair h4{
+	margin:0;
+	font-weight:100;
+	padding-top:5px;
+	float:left;
+}
+.hair h5{
+	margin-right:10px;
+	padding-top:5;
+}
+.header{
+	width: 100%;
+	background-color:#fabf58;
+}
+.lhead{
+	float:left;
+	width:30%;
+}
+.rhead{
+    width:70%;
+	height:150px;
+}
+.rhead h1{
+	padding-top:30px;
+	font-size:50px;
+	margin:0;
+	letter-spacing: 20px;
+}
+.daohang li{
+	float:left;
+	display:block;
+	padding-top:5px;
+	text-align:center;
+	width:33%;
+	height:35px;
+}
+.header ul{
+	margin:5px;
+	height:40px;
+	display:block;
+	background-color:#f99f09; 
+}
+.header a{
+	text-decoration:none;
+	color:black;
+	transition:0.5s;
+	display:block;
+}
+.header li:hover {
+	display:block;
+	background-color:#c97e01; 
+}
+.neirong{
+	width:100%;
+	height:1180px;
+}
+.neirongg{
+	width:auto;
+	height:33%;
+	margin-top:20;
+	margin-left:100;
+	margin-right:100;
+	background-color:#fef8ba;
+	background-color: rgba(0,0,0,0.2);
+}
+.tu{
+	height:200;
+	width:300;
+	background-color:#c97e01;
+	float:left;
+	margin-top:100px;
+	margin-left:100px;
+}
+.wen{
+	height:200;
+	width:600;
+	background-color:#fabf58;
+	margin-left:100;
+	margin-top:100px;
+	float:left;
+}
+.wen p{
+	padding-top:50px;
+	font-size:30;
+}
+.tail{
+	margin-top:50;
+}
